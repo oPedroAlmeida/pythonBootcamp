@@ -1,2 +1,2 @@
-# pythonBootcamp
+# Python Bootcamp
 Python learning and examples
